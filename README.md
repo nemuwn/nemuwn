@@ -2,7 +2,7 @@
   Всем привет, я Nemu 👒
 </h1>
 <p align="center">
-<img src="https://media.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif" width="300px"> 
+<img src="https://media.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif" width="100px"> 
 </p>
 </br>
 # 💫 About Me:
