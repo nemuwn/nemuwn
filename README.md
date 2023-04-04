@@ -5,7 +5,7 @@
 <img src="https://media.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif" width="100px"> 
 </p>
 
-<h1💫 About Me: </h1>
+<h1>💫 About Me: </h1>
 🔭 I am currently pursuing a Bachelor's degree in Information Technology with a focus on Cyber Security at the National University of Mongolia.<br>🎀 Right now, I'm studying Machine Learning, .NET, and getting better at Web Development. I'm also trying out different programming languages.<br>🌸When I am not absorbed in my studies, I like to indulge in my creative side through my passions for Drawing and Video Gaming
 
 
