@@ -18,10 +18,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nemuwn&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 🗿🗿🗿
+<img src="[https://rm.up.railway.app/](https://media.tenor.com/JoHomaU2vdAAAAAM/mean-cat-cat.gif)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nemuwn&icon=7&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
