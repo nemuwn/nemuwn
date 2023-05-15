@@ -1,13 +1,11 @@
 <h1 align="center">
-  Всем привет, я Nemu 👒
+  Helloo, я Nemu 
 </h1>
 <p align="center">
 <img src="https://media.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif" width="100px"> 
 </p>
 
 <h3 align="center">🔭 I'm a third year student at at the National University of Mongolia majoring in Information Technology .</h3>
-
-🎀 Right now, I'm studying Machine Learning, .NET, and getting better at Web Development. I'm also trying out different programming languages.<br>🌸When I am not absorbed in my studies, I like to indulge in my creative side through my passions for Drawing and Video Gaming
 
 
 ## 🌐 Socials:
