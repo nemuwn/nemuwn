@@ -1,5 +1,5 @@
 <h1 align="center">
-  Helloo, я Nemu 
+  Helloo, я Nomin
 </h1>
 <p align="center">
 <img src="https://media.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif" width="100px"> 
