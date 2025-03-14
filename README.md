@@ -5,7 +5,7 @@
 <img src="https://media.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif" width="100px"> 
 </p>
 
-<h3 align="center">🔭 I'm a student at at the National University of Mongolia majoring in Information Technology .</h3>
+<h3 align="center">🔭 I'm currently a DevOps Engineer at S Systems</h3>
 
 
 ## 🌐 Socials:
