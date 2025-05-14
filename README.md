@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-<br>🚀 DevOps Engineer @ S Systems <br>🐈  CTFs for fun, YAML for pain<br>🍵 Powered by matcha
+<br>🚀 DevOps Engineer @ S Systems <br>🍵 Powered by matcha
 
 
 ## 🌐 Socials:
