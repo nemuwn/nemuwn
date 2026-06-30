@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-<br>🚀 DevOps Engineer @ S Systems <br>🍵 Powered by matcha
+<br>🚀 DevOps Engineer <br>🍵 Powered by matcha
 
 
 ## 🌐 Socials:
