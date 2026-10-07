@@ -17,11 +17,11 @@
 <br><img src="https://artwork.neocities.org/pixels/tiny/food/e81edcc1.gif" height="20" /> Building my corner of the internet at <a href="https://nemu.world">nemu.world</a>
 <br><img src="https://nemu.world/img/cakesq_greentea.gif" height="20" /> Powered by matcha
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.cncf.io/training/kubestronaut/">
     <img src="https://img.shields.io/badge/Kubestronaut-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubestronaut"/>
   </a>
-</p>
+</p> -->
 
 
 ## <img src="https://rachychel.neocities.org/gifs/favicons/clover.gif" height="24" /> kubectl describe nemu
